@@ -2,6 +2,10 @@
 
 > Flight status around the world, data provided by [flightstats](https://www.flightstats.com/v2)
 
+<a href="https://nodei.co/npm/flighttracker/"><img src="https://nodei.co/npm/flighttracker.png"></a>
+
+# 📚 API Documentation
+
 ## `fn status({date: '', flightNumber: ''})`
 
 ```js
