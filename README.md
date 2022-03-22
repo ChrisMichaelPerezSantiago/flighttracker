@@ -2,7 +2,7 @@
 
 > Flight status around the world, data provided by [flightstats](https://www.flightstats.com/v2)
 
-<a href="https://nodei.co/npm/flighttracker/"><img src="https://nodei.co/npm/flighttracker.png"></a>
+> > NPM PKG: [@chris5855/flighttracker](https://www.npmjs.com/package/@chris5855/flighttracker)
 
 # 📚 API Documentation
 
