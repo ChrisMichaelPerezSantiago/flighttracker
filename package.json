@@ -1,5 +1,5 @@
 {
-  "name": "flighttracker",
+  "name": "@chris5855/flighttracker",
   "version": "1.0.0",
   "description": "Flight status around the world, data provided by flightstats",
   "main": "./src/index.js",
